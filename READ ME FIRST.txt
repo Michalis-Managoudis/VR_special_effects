@@ -1,2 +1,0 @@
-Αντικατάσταση στον φάκελο files for cmake and sln το lab.cpp 
-με ένα από τα 2 cpp (hand_skeleton, human_skeleton)
